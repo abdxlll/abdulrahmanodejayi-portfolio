@@ -6,7 +6,7 @@ The site showcases my projects, skills, and professional background as a softwar
 
 ### 🌐 View the live portfolio:
 
-👉 [Visit my portfolio](https://abdxlll.github.io/portfolio/)
+👉 [Visit my portfolio](https://abdxlll.github.io/abdulrahmanodejayi-portfolio/)
 
 ### 📌 Features
 
